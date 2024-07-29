@@ -18,7 +18,7 @@ The script is configured to run on Windows and may require adjustments for other
 
 - **Jenkins**: Install and run Jenkins. For installation instructions, visit the [Jenkins website](https://www.jenkins.io/doc/book/installing/).
 
-- **Firebird installation**: Ensure that [Firebird](https://firebirdsql.org/en/firebird-3-0/) is installed to use `gbak.exe`.
+- **Firebird installation**: Ensure that [Firebird](https://www.firebirdsql.org/) is installed to use `gbak.exe`.
 
 - **7-Zip installation**: Install [7-Zip](https://www.7-zip.org/) to compress backup files.
 
