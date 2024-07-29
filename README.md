@@ -12,6 +12,8 @@ The pipeline performs the following tasks:
 
 The script is configured to run on Windows and may require adjustments for other operating systems.
 
+![Jenkins pipeline for Firebird backup](https://github.com/daniel-pereira-guimaraes/jenkins-firebird-backup/blob/main/jenkins.png)
+
 ## Prerequisites
 
 - **Jenkins**: Install and run Jenkins. For installation instructions, visit the [Jenkins website](https://www.jenkins.io/doc/book/installing/).
